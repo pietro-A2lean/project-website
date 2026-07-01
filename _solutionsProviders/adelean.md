@@ -4,14 +4,14 @@ name_long: 'Adelean'
 logo: '/assets/media/partners/adelean/adelean_logo_mark.png'
 link: 'https://adelean.com'
 logo_large: '/assets/media/partners/adelean/adelean_logo.png'
-description: Adelean is a technology and systems consulting company. We guide you through setting up search engines and tools for data exploration and analysis. Integrators of search platforms like Lucene, Solr, Elasticsearch and OpenSearch, we bring our expertise for deploying and optimizing these technologies into your systems.
+description: Adelean is an expert in Search Engine Technologies, Data, and AI. We provide a comprehensive range of services including audit, consulting, training and IT expertise. As integrators of search and open-source technologies, we deliver ready-to-use solutions with both hosted and self-managed deployment options. Beyond our IT and consulting services, we develop A2, an innovative, scalable search solution designed specifically for e-commerce and enterprise applications. 
 
 contact: info@adelean.com, https://adelean.com
 
 region:           Global
-opensearch_tech:  Search,Observability,Analytics
+opensearch_tech:  Search,Observability,Analytics,Machine Learning,AI,E-Commerce Search,Scaling and Performance Tuning,Search Relevance,Vector based search
 industries:       Business Services,Consumer Services,Education,Energy and Utilities,Healthcare,Media and Entertainment,Public Sector,Non-Profit,Retail and e-Commerce,Software and Technology,Financial Services
-business_type:    Consultancy
+business_type:    Consultancy,Independent Software Vendor (ISV),Training,Professional Services
 
 
 
